@@ -12,5 +12,11 @@ hfeiuhfihe
 hfuhoj
 asffsfsaf
 
+<<<<<<< Updated upstream
 fsjfksenfkjnfk
 fsafsffffffff
+=======
+akfkfnoifjpjw
+flksdnklfnel
+klmelkfm
+>>>>>>> Stashed changes

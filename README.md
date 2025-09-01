@@ -17,3 +17,6 @@ fsafsffffffff
 akfkfnoifjpjw
 flksdnklfnel
 klmelkfm
+
+git checkout -b branchname
+git merge alias branchname

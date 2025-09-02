@@ -20,3 +20,19 @@ branch 9
 
 branch 10
 branch 11
+adasds
+adfgdh
+afsfsfggg
+fsfkforijoij
+hfeiuhfihe
+hfuhoj
+asffsfsaf
+
+fsjfksenfkjnfk
+fsafsffffffff
+akfkfnoifjpjw
+flksdnklfnel
+klmelkfm
+
+git checkout -b branchname
+git merge alias branchname
